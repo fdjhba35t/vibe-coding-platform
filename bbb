@@ -9,9 +9,6 @@ execution_time_limit:
 fail_fast: 
   stop: 
     when: 'false'
-auto_cancel:
-  running:
-    when: 'false'
 blocks: 
   - name: 'Block #1' 
     task: 
